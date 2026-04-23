@@ -1,12 +1,12 @@
 {
-  "export_job_id": "934873dc-67fd-44cb-b405-7e720601bb04",
+  "export_job_id": "0ddf5ff8-79a0-4097-862b-7b13c918e433",
   "id_short": 713369,
-  "published_at": "2026-04-18T19:43:28Z",
+  "published_at": "2026-04-23T07:04:39Z",
   "repo_name": "restaurant-verified-email-access-in-detroit-michigan-us-sample-713369",
   "sample_asset_name": "beamstation_713369_restaurants-us-mi_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/713369/beamstation_713369_restaurants-us-mi_SAMPLE_DIST.csv",
-  "sample_records": 33,
-  "sample_sha256": "de9b0c33da9614b9672322fa9a03c297a2aca506760e13b9140567269c92e990",
-  "sample_size_bytes": 144769,
-  "total_records": 337
+  "sample_records": 25,
+  "sample_sha256": "4860c56fa1d380b54dc47b5e6e49479d6836d644924d6ee13a82ef893c678a16",
+  "sample_size_bytes": 114327,
+  "total_records": 253
 }
